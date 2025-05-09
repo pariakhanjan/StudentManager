@@ -1,2 +1,3 @@
-# StudentManager
-This C++ program is a console-based application that allows administrators and guests to manage student records.Uses OOP (a Student class with getters/setters).  Stores records in a vector of Student objects.  Implements basic file I/O for data storage.
+
+This C++ program is a **console-based Student Management System** that allows users to manage student records through a simple text interface. It supports two login roles: **admin** (full access) and **guest** (view-only). Admins can add, edit, delete, and print student records, while guests can only view them. The system stores student data (name, surname, age, and active status) in a vector and loads/saves records to a file (`student.txt`). The interface includes color-coded feedback (errors in red, menus in purple) and a menu-driven navigation system. Built using object-oriented programming (a `Student` class with getters/setters), this program is designed for basic student record-keeping with persistent storage.  
+

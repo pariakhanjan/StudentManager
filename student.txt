@@ -1,0 +1,28 @@
+Name: paria
+Surname: Khanjan
+Age: 18
+*******************************************
+Name: Zahra
+Surname: Mirza
+Age: 45
+*******************************************
+Name: Maniya
+Surname: Jan
+Age: 14
+*******************************************
+Name: abc
+Surname: def
+Age: 12
+*******************************************
+Name: Ali
+Surname: Afshar
+Age: 21
+*******************************************
+Name: Neda
+Surname: Sadr
+Age: 21
+*******************************************
+Name: Leila
+Surname: Namazi
+Age: 14
+*******************************************
